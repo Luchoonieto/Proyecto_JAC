@@ -10,3 +10,8 @@ cliente: podemos almacenar y consultar el nombre completo del cliente por separa
 producto: al igual que el cliente, podemos saber y guardar, el nombre del producto, tipo (si es cancion, album o juego), precio
 
 pedido: en este, podemos almacenar y consultar quien lo pidio, el precio total y la cantidad de productos que a pedido el cliente
+
+
+
+
+DECLARACION: No he usado IA como metodo de ayuda, sin embargo, la unica ayuda que tuve fue de mi profe al quitarme una duda con rescepto a la vinculacion de las tablas entre si
